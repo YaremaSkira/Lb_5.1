@@ -1,0 +1,4 @@
+﻿  Cursor.cpp
+D:\Project\OOP\LB5\LB_5.1_A\Cursor.h(27,87): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_A\Cursor.cpp(59,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  LB_5.1_A.vcxproj -> D:\Project\OOP\LB5\LB_5.1_A\Debug\LB_5.1_A.exe

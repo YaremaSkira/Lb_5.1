@@ -1,0 +1,8 @@
+﻿  FuzzyNumber.cpp
+D:\Project\OOP\LB5\LB_5.1_B\FuzzyNumber.cpp(54,112): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_B\FuzzyNumber.cpp(55,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\Project\OOP\LB5\LB_5.1_B\FuzzyNumber.h(33): message : see declaration of 'operator >>'
+  LB_5.1_B.cpp
+  Generating Code...
+  LINK : D:\Project\OOP\LB5\LB_5.1_B\Debug\LB_5.1_B.exe not found or not built by the last incremental link; performing full link
+  LB_5.1_B.vcxproj -> D:\Project\OOP\LB5\LB_5.1_B\Debug\LB_5.1_B.exe
